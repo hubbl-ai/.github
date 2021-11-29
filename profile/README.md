@@ -6,7 +6,7 @@ to give back parts of what we're building to the community. Feel free
 to copy, link, fork or otherwise make good use of the goodies you'll
 find here. This list currently includes the following translations:
 
-- All world currencies (ISO 4217)
+- [All world currencies](https://github.com/hubbl-ai/iso_4217) (ISO 4217)
 - Airport names
 - Airline names
 - The names of systems of writing (ISO 15924)
